@@ -1,0 +1,7 @@
+
+print("A Good Pie To The Face")
+
+size = input("What size pizza do you want? S, M, or L")
+Add_pepperoni = input("Do you want pepperoni? Y or N ")
+extra_cheese = input("Do you want extra cheese? Y or N")
+
